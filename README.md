@@ -1,5 +1,4 @@
-## gitlab<br>
-https://gitlab.com/kumaotto
+gitlab：https://gitlab.com/kumaotto
 
 <!--
 **kumaotto/kumaotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
