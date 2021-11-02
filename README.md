@@ -1,6 +1,6 @@
 gitlab：https://gitlab.com/kumaotto
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaotto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaotto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
