@@ -5,9 +5,6 @@
   <a href="http://twitter.com/EngineerKumaou">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/kumaotto">
-    <img height="20" src="https://img.shields.io/github/followers/kumaotto?label=follow&logo=github&style=flat" />
-  </a>
   <a href="http://qiita.com/Kumaou_00">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kumaou_00/posts.svg" />
   </a>
