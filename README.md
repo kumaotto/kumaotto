@@ -2,8 +2,8 @@
   <a href="https://github.com/kumaotto/kumaotto/">
     <img src="https://komarev.com/ghpvc/?username=kumaotto" alt="kumaotto" />
   </a>
-  <a href="http://twitter.com/EngineerKumaou">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/EngineerKumao">
+    <img height="20" src="https://img.shields.io/twitter/follow/EngineerKumao?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/Kumaou_00">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kumaou_00/posts.svg" />
