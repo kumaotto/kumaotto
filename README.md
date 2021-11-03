@@ -25,7 +25,7 @@ gitlab：https://gitlab.com/kumaotto
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kumaotto&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaotto" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaotto&layout=compact" />
 </a>
 
 
