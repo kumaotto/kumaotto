@@ -17,10 +17,10 @@ gitlab：https://gitlab.com/kumaotto<br>
 
 <div style="display:flex">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=kumaotto&count_private=true&show_icons=true" />
+    <img style="padding:0px" src="https://github-readme-stats.vercel.app/api?username=kumaotto&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaotto&layout=compact" />
+    <img style="padding:0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaotto&layout=compact" />
   </a>
 </div>
 
