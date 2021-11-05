@@ -13,7 +13,6 @@
   </a>
 </p>
 job: Web Developer<br>
-gitlab：https://gitlab.com/kumaotto<br>
 
 <div style="display:flex">
   <a href="https://github.com/anuraghazra/github-readme-stats">
