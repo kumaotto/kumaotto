@@ -7,10 +7,10 @@ job: Web Developer<br>
 
 <div style="display:flex">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="padding:0px" src="https://github-readme-stats.vercel.app/api?username=kumaotto&count_private=true&show_icons=true" />
+    <img style="padding:0px" src="https://github-readme-stats.vercel.app/api?username=kumaotto&count_private=true&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="padding:0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaotto&layout=compact" />
+    <img style="padding:0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaotto&layout=compact&count_private=true" />
   </a>
 </div>
 
